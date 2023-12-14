@@ -40,9 +40,6 @@ Eval H2GFormer with 1 GPU
 ## Model Zoo
 
 ## Visualization
-| ![visualization.png](./teaser/visualization.png) | 
-|:--:| 
-| *Figure 2: Qualitative results.* |
 
 ## TODO
 

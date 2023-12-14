@@ -15,7 +15,7 @@
 ## Method
 | ![main.png](./teaser/main.png) | 
 |:--:| 
-| ***Figure 1: (a) The overall architecture of H2GFormer. The image backbone and pixel decoder extract features from single or multiple images, which are then fed into the DeformCrossAttn Stage using a hierarchical multi-scale feature allocation strategy. Subsequently, the predefined features of the visible region are combined with a mask token and propagated through the W2G stage to diffuse the features. Finally, upsampling and projection are performed to obtain the semantic scene completion results. (b) The structure of the W2G stage, which involves windowed self-attention (WSA) and deformable self-attention (DSA).* |
+| *Figure 1: (a) The overall architecture of H2GFormer. The image backbone and pixel decoder extract features from single or multiple images, which are then fed into the DeformCrossAttn Stage using a hierarchical multi-scale feature allocation strategy. Subsequently, the predefined features of the visible region are combined with a mask token and propagated through the W2G stage to diffuse the features. Finally, upsampling and projection are performed to obtain the semantic scene completion results. (b) The structure of the W2G stage, which involves windowed self-attention (WSA) and deformable self-attention (DSA).* |
 
 ## Getting Started
 ### Datasets
@@ -42,7 +42,7 @@ Eval H2GFormer with 1 GPU
 ## Visualization
 | ![visualization.png](./teaser/visualization.png) | 
 |:--:| 
-| ***Figure 2: Qualitative results.* |
+| *Figure 2: Qualitative results.* |
 
 ## TODO
 
